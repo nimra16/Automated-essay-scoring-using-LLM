@@ -1,0 +1,22 @@
+﻿Essay ID,Essay type,human1,human2,GPT,Gemini
+e001,Report Writing,23,16,23,23
+e002,Informal letter,25,26,23,25
+e003,Report Writing,23,14,21,23
+e004,Report Writing,25,22,23,25
+e005,Descriptive ,15,14,18,22
+e006,Report Writing,26,18,23,23
+e007,Descriptive ,18,18,14,18
+e008,Report Writing,28,25,23,23
+e009,Descriptive ,28,22,22,26
+e010,Descriptive ,28,26,22,22
+e011,Descriptive ,28,18,22,18
+e012,Narrative,29,24,22,24
+e013,Descriptive ,28,18,18,18
+e014,Narrative,25,18,14,21
+e015,Narrative,29,21,18,24
+e016,Informal letter,23,21,11,23
+e017,Informal letter,18,16,5,25
+e018,Informal letter,25,16,11,23
+e019,Descriptive ,28,22,14,14
+e020,Narrative,29,24,14,24
+e021,Informal letter,25,21,2,13

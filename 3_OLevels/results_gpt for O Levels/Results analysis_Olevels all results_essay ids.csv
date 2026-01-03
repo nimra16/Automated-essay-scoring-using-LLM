@@ -1,0 +1,22 @@
+﻿Essay ID,Essay type,human1_Score,human2_Score,GPT_Score
+e001,Report Writing,23,NA,23
+e002,Informal letter,25,27,23
+e003,Report Writing,23,NA,21
+e004,Report Writing,25,NA,23
+e005,Descriptive ,15,NA,18
+e006,Report Writing,26,NA,23
+e007,Descriptive ,18,NA,14
+e008,Report Writing,28,NA,23
+e009,Descriptive ,28,NA,22
+e010,Descriptive ,28,NA,22
+e011,Descriptive ,28,NA,22
+e012,Narrative ,29,NA,22
+e013,Descriptive ,28,NA,18
+e014,Narrative ,25,NA,14
+e015,Narrative ,29,NA,18
+e016,Informal letter,23,14,11
+e017,Informal letter,18,7,5
+e018,Informal letter,25,14,11
+e019,Descriptive ,28,NA,14
+e020,Narrative ,29,NA,14
+e021,Informal letter,25,15,2

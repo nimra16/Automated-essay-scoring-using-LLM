@@ -1,0 +1,6 @@
+Comparison,Weighted Kappa
+human1 vs human2,0.01
+human1 vs GPT,0.0
+human1 vs Gemini,0.21
+human2 vs GPT,0.01
+human2 vs Gemini,0.17
