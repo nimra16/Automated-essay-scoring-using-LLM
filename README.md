@@ -205,14 +205,8 @@ Automated-essay-scoring-using-LLM/
 
 ## 🙏 Acknowledgments
 
-We extend our sincere gratitude to the following individuals who made this research possible:
+We sincerely thank **Mrs. Sanam Zaryab,** English Lecturer (O-Levels) at Sukkur IBA Community College, and **Mr. Usama Abdul Rehman**, English Lecturer at Sukkur IBA University, for generously providing classroom data and sharing their academic expertise. Their contributions were instrumental to this study on automated essay scoring and human assessment alignment.
 
-### Data Contributors
-
-- **Mrs. Sanam Zaryab** - English Lecturer, O-Levels, Sukkur IBA Community College
-- **Mr. Usama Abdul Rehman** - English Lecturer, Sukkur IBA University
-
-Their willingness to share classroom data and expertise has been invaluable in advancing our understanding of automated essay scoring and human assessment practices.
 
 ### Institutions
 
@@ -253,12 +247,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **ASAP-AES Dataset**: [Kaggle Competition](https://www.kaggle.com/competitions/asap-aes/data)
 - **LA-AES Dataset**: [Kaggle Competition](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2)
 
-## 📧 Contact
+## Contact
 
 For questions or collaborations, please contact:
 - Nimra Mughal: [nimra@iba-suk.edu.pk](mailto:nimra@iba-suk.edu.pk)
 
-## 🛡️ Data Privacy
+## Data Privacy
 
 This research adheres to strict ethical guidelines:
 - All benchmark datasets are publicly available and pre-anonymized
@@ -268,6 +262,6 @@ This research adheres to strict ethical guidelines:
 
 ---
 
-**⭐ If you find this research useful, please consider starring this repository!**
+**If you find this research useful, please consider starring this repository!**
 
 *Last Updated: January 2025*
