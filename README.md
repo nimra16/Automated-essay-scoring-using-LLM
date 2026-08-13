@@ -123,11 +123,15 @@ We sincerely thank **Mrs. Sanam Zaryab,** English Lecturer (O-Levels) at Sukkur 
 If you use this code or findings in your research, please cite:
 
 ```bibtex
-@article{mughal2024exploring,
-  title={Exploring Potential of Large Language Models for Automated Essay Scoring in Education},
+@article{mughal2026exploring,
+  title={Exploring potential of large language models for automated essay scoring in education},
   author={Mughal, Nimra and Imran, Ali Shariq and Daudpota, Sher Muhammad and Kastrati, Zenun and Noor, Waheed},
-  journal={Under Review},
-  year={2024}
+  journal={Discover Artificial Intelligence},
+  volume={6},
+  number={1},
+  pages={166},
+  year={2026},
+  publisher={Springer}
 }
 ```
 
